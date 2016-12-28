@@ -1,0 +1,7 @@
+#Wed Dec 28 15:58:09 CST 2016
+base.0=E\:\\Android_Studio\\MySweetAlert1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e0828d501a44d1713504ea661cbe8d5e8c07febc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Android_Studio\\MySweetAlert1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_49a13fe084fae7be22edb19a6e703f1db8a829a5\\classes.dex
+base.1=E\:\\Android_Studio\\MySweetAlert1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_49a13fe084fae7be22edb19a6e703f1db8a829a5
+file.0=E\:\\Android_Studio\\MySweetAlert1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e0828d501a44d1713504ea661cbe8d5e8c07febc\\classes.dex

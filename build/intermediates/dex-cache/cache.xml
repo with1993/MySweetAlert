@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android_Studio\MySweetAlert1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3ed3070f9a3447dcae60527b5349912da752948">
+        <dex dex="E:\Android_Studio\MySweetAlert1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e0828d501a44d1713504ea661cbe8d5e8c07febc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\Android_Studio\MySweetAlert1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_f599733ef61a09c8fdcaa231d9304eb51c143884\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Studio\MySweetAlert1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef85d983de8f31b70e001067340d16f7067a732a">
+        <dex dex="E:\Android_Studio\MySweetAlert1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_49a13fe084fae7be22edb19a6e703f1db8a829a5\classes.dex" />
+    </item>
+
+</items>

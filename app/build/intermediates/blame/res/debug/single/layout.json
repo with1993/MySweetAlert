@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android_Studio\\MySweetAlert1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "E:\\Android_Studio\\MySweetAlert1\\app\\src\\main\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\MySweetAlert1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_activity.xml",
+        "source": "E:\\Android_Studio\\MySweetAlert1\\app\\src\\main\\res\\layout\\sample_activity.xml"
+    }
+]
